@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(77, 115, 172);
+    padding-block: 50px;
+}
+h1{
+    color: rgb(28, 6, 81);
+    font-size: 350px;
+    font-family: Georgia;
+}
+h2{
+    color: rgb(80, 8, 181);
+    font-size: 200px;
+    font-family: Georgia;
+}
+p{
+    color: rgb(246, 246, 248);
+    font-size: 100px;
+    font-family: Georgia;
+}
+button{
+    background-color: azure;
+    padding: 100px;
+    size: 100px;
+    font-size: 100px;
+    font-family: Georgia;
+    font-display: center;
+}
+div {
+    margin: 200px;
+  }
